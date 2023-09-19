@@ -1,6 +1,6 @@
-# Booki ! (OC - P2)
+# Booki (OC - P2)
 
-![OhMyFood banner](https://user.oc-static.com/upload/2022/06/22/16559011566667_FR_1117_P4_Banner-Ohmyfood.png)
+![OhMyFood banner](https://user.oc-static.com/upload/2022/06/20/16557256333819_FR_1155_P3_Banner-Booki.png)
 
 Ce repository contient le code du projet 2 de la formation développeur d'application javascript React d'OpenClassrooms : Booki
 
