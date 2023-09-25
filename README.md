@@ -4,15 +4,21 @@
 
 Ce repository contient le code du projet 2 de la formation développeur d'application javascript React d'OpenClassrooms : Booki
 
+## Objectif
+
+- Transformer une maquette en site
+
 ## Compétences cibles
 
 - Implémenter une interface responsive
 - Intégrer du contentu conformément à une maquette
 
-## Objectif
+## Aperçu
 
-- Transformer une maquette en site
+- snapshot
+![booki snapshot](https://github.com/maxew33/OC-P2-Booki/blob/main/images/snapshot.png)
 
+- [voir le site](https://maxew33.github.io/OC-P2-Booki/)
 
 ## Ressources
 
